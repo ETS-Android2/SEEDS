@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Seeds</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>Pampanga</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Tuna rice meal</item>
+        <item>Scrambled tofu salad</item>
+        <item>Red radish salad</item>
+        <item>KareKare</item>
+        <item>Barbeque</item>
+        <item>Tofu Steak</item>
+        <item>Sweet and spicy Tofu</item>
+        <item>Tofu Sisig</item>
+        <item>Spring Rolls</item>
+        <item>Shanghai Rolls</item>
+        <item>Spaghehtti</item>
+        <item>Pesto</item>
+        <item>Garlic and Olive Oil Pasta</item>
+        <item>Mushroom Burger</item>
+    </string-array>
+</resources>

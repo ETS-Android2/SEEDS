@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "115740553233",
+    "firebase_url": "https://seeds-e1b49-default-rtdb.firebaseio.com",
+    "project_id": "seeds-e1b49",
+    "storage_bucket": "seeds-e1b49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115740553233:android:b388588eeac3f9405101b0",
+        "android_client_info": {
+          "package_name": "com.tako.seeds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115740553233-cjgqgaetq2ke7dk2idp55t6brgia5efb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQN5TIexSKk2OpD_nd33T8-Vi9umbaKZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115740553233-cjgqgaetq2ke7dk2idp55t6brgia5efb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
