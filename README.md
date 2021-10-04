@@ -1,4 +1,4 @@
-# FoodOn
+# SEEDS
 
 ## Installation Guide
 1. Clone repository
